@@ -1,3 +1,6 @@
+body {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/moroccan-flower.png");
+}
 h1, h2, h3, h4, h5, p, a, label, input, img, iframe{
     margin-left: 15px;
   }
